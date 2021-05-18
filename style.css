@@ -1,0 +1,9 @@
+.wrapper{
+    display:block;
+}
+.pageNum {
+    display: block;
+    margin: 0 auto;
+    width: max-content;
+  }
+
