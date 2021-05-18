@@ -1,6 +1,10 @@
 .wrapper{
-    display:block;
+    display:flex;
+    justify-content: space-between;
+    background-color: darkgrey;
 }
+
+
 .pageNum {
     display: block;
     margin: 0 auto;
